@@ -14,7 +14,6 @@ Graphs, David A. Melis, http://www.arduino.cc/en/Tutorial/Graph
 import processing.serial.*;
  
  Serial myPort;        // The serial port
- int xPos = 1;         // horizontal position of the graph
  
  void setup () {
  // set the window size:
